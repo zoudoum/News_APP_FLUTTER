@@ -26,7 +26,7 @@ Assurez-vous d'avoir Flutter et Dart installés sur votre machine.
 
 ## Dépendances
 
-Listez ici les principales dépendances utilisées dans votre projet.
+Les principales dépendances utilisées dans votre projet.
 
 ```yaml
 dependencies:
